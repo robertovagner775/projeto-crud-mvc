@@ -1,0 +1,15 @@
+{
+    "name": "robertovagner/teste_mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robertovagner775",
+            "email": "robertovagner04@gmail.com"
+        }
+    ],
+    "require": {}
+}
